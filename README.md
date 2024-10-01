@@ -1,2 +1,15 @@
 # MERN
-Learning MERN Stack
+Learning MERN Stack 
+About
+Learning MERN Stack with life-long examples and values like : personal stuffs and more ! 
+
+ _ _   _     ___  __        _                         
+( | ) | |   |_ _|/ _| ___  (_)___    __ _             
+ V V  | |    | || |_ / _ \ | / __|  / _` |            
+      | |___ | ||  _|  __/ | \__ \ | (_| |            
+ _____|_____|___|_|  \___| |_|___/  \__,_|   _   _ _  
+| ____|_  ____ _ _ __ ___  _ __ | | ___     | | ( | ) 
+|  _| \ \/ / _` | '_ ` _ \| '_ \| |/ _ \    | |  V V  
+| |___ >  < (_| | | | | | | |_) | |  __/    |_|       
+|_____/_/\_\__,_|_| |_| |_| .__/|_|\___|    (_)       
+                          |_|                         
